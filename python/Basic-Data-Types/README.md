@@ -1,2 +1,1 @@
-
-##Basic Data Types Problems Solutions
+# Basic Data Types Problems Solutions
