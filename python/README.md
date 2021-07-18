@@ -2,6 +2,24 @@
 > Live demo [_here_](https://www.hackerrank.com/domains/python).
  <!-- If you have the project hosted somewhere, include the link here-->
 
+(01) Basic-Data-Types
+(02) Built-Ins
+(03) Classes
+(04) Closures-And-Decorators
+(05) Collections
+(06) Date-And-Time
+(07) Debugging
+(08) Errors-And-Exceptions
+(09) Introduction
+(10) Itertools
+(11) Math
+(12) Numpy-Python
+(13) Python-Functions
+(14) Regex-And-Parsing
+(15) Sets
+(16) Strings
+(17) Xml
+
 ## Table of Contents
 * [Author](#Author)
 * [General Info](#general-information)
