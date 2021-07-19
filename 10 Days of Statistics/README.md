@@ -54,10 +54,10 @@
 
 ## Contact
 Created By [Hussein-ali-mc](https://www.linkedin.com/in/hussein-ali-mc/) - feel free to contact me!
-*[Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
-*[Facebook](https://www.facebook.com/hussein.ali.mc.official)
-*[Instagram](https://www.instagram.com/hussein_ali_mc/)
-*[Twitter](https://twitter.com/hussein_ali_mc)
+* [Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
+* [Facebook](https://www.facebook.com/hussein.ali.mc.official)
+* [Instagram](https://www.instagram.com/hussein_ali_mc/)
+* [Twitter](https://twitter.com/hussein_ali_mc)
 
 
 
