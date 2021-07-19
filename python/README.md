@@ -10,23 +10,23 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 ## Index
-* (01) Basic-Data-Types
-* (02) Built-Ins
-* (03) Classes
-* (04) Closures-And-Decorators
-* (05) Collections
-* (06) Date-And-Time
-* (07) Debugging
-* (08) Errors-And-Exceptions
-* (09) Introduction
-* (10) Itertools
-* (11) Math
-* (12) Numpy-Python
-* (13) Python-Functions
-* (14) Regex-And-Parsing
-* (15) Sets
-* (16) Strings
-* (17) Xml
+* Basic-Data-Types
+* Built-Ins
+* Classes
+* Closures-And-Decorators
+* Collections
+* Date-And-Time
+* Debugging
+* Errors-And-Exceptions
+* Introduction
+* Itertools
+* Math
+* Numpy-Python
+* Python-Functions
+* Regex-And-Parsing
+* Sets
+* Strings
+* Xml
 ## Author
 - My name is Hussein Ali, a student in the College of Computer Science and Artificial Intelligence. Specializes in studying data science, developing artificial intelligence systems and finding solutions. Contract researcher in the problems of data management and organization of software institutions.
 
@@ -43,9 +43,11 @@
 - Visual Studio Code  - version 1.58.2
 
 ## Contact
-Created By [@Hussein-ali-mc](https://www.linkedin.com/in/hussein-ali-mc/) - feel free to contact me!
-
-
+Created By [Hussein-ali-mc](https://www.linkedin.com/in/hussein-ali-mc/) - feel free to contact me!
+* [Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
+* [Facebook](https://www.facebook.com/hussein.ali.mc.official)
+* [Instagram](https://www.instagram.com/hussein_ali_mc/)
+* [Twitter](https://twitter.com/hussein_ali_mc)
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
