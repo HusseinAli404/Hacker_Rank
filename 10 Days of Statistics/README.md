@@ -53,11 +53,11 @@
 - Visual Studio Code  - version 1.58.2
 
 ## Contact
-Created By [Hussein Ali](https://www.linkedin.com/in/hussen-Ali/) - feel free to contact me!
+Created By [Hussein Ali](https://www.linkedin.com/in/HusseinAliOfficial/) - feel free to contact me!
 * [Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
-* [Facebook](https://www.facebook.com/hussein.3li.official)
-* [Instagram](https://www.instagram.com/hussein.3li.Official/)
-* [Twitter](https://twitter.com/HussenOfficial)
+* [Facebook](https://www.facebook.com/Hussein.Bin.Ali.Official)
+* [Instagram](https://www.instagram.com/hussein.Bin.Ali.Official/)
+* [Twitter](https://twitter.com/Hussein_Bin_Ali)
 
 
 
