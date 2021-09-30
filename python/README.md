@@ -45,9 +45,9 @@
 ## Contact
 Created By [Hussein-ali-mc](https://www.linkedin.com/in/husseinaliofficial/) - feel free to contact me!
 * [Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
-* [Facebook](https://www.facebook.com/hussein.bin.ali.official)
-* [Instagram](https://www.instagram.com/hussein.bin.ali.official/)
-* [Twitter](https://twitter.com/hussein_Bin_ali)
+* [Facebook](https://www.facebook.com/husseinalioffcial)
+* [Instagram](https://www.instagram.com/husseinalioffcial/)
+* [Twitter](https://twitter.com/husseinoffcial)
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
