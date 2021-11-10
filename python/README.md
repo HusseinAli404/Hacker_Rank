@@ -43,11 +43,9 @@
 - Visual Studio Code  - version 1.58.2
 
 ## Contact
-Created By [Hussein-ali-mc](https://www.linkedin.com/in/husseinaliofficial/) - feel free to contact me!
+Created By [Hussein Ali](https://www.linkedin.com/in/husseinaliofficial/) - feel free to contact me!
 * [Youtube](https://www.youtube.com/channel/UCIwDsGip8YANJifcaA_se_w)
-* [Facebook](https://www.facebook.com/husseinalioffcial)
-* [Instagram](https://www.instagram.com/husseinalioffcial/)
-* [Twitter](https://twitter.com/husseinoffcial)
+
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
